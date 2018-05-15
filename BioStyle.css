@@ -1,0 +1,29 @@
+body {
+  padding: 0;
+  font-family: "Gothic A1";
+  font-size: 16px;
+  line-height: 150%;
+  color: #333;
+  background: #efeee7;
+    }
+header {
+    background-color: #333333;
+    text-align: center;
+    Margin: 0;
+}
+a {
+    color: #d21034;
+  }
+  
+h1 {
+    font-family: "Merriweather";
+    color: #eee;
+    font-size: 24px;
+    padding: 20px 0;
+    height: 42px;
+    }
+h2 {
+    font-family: "Merriweather";
+    color: #333;
+    font-size: 18#33px;
+}
